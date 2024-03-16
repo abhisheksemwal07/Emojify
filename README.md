@@ -1,6 +1,6 @@
 # emojify 🤖
 
-Welcome to the Face to Emoji project, a Python script that transforms facial landmarks into emoji-like features in real-time. 🎭
+Welcome to the emoojify project, a Python script that transforms facial landmarks into emoji-like features in real-time. 🎭
 
 ## Overview
 
